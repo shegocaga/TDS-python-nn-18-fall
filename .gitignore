@@ -102,3 +102,4 @@ ENV/
 
 #JustMacThings
 *.DS_Store
+*.swp
