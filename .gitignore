@@ -103,3 +103,6 @@ ENV/
 #JustMacThings
 *.DS_Store
 *.swp
+
+#Zach Lecture Notes
+*.zach
