@@ -20,25 +20,25 @@ Our Monday night workshops (9/10 - 12/3) are geared towards *cultivating a profi
 - Troubleshoot installation
 - Environment Testing
 
-### 9/26: Intro to Machine Learning + Neural Network Math
+### 9/24: Intro to Machine Learning + Neural Network Math
 
-### 10/03: Intro to Keras
+### 10/01: Intro to Keras
 
-### 10/10: Build a model from scratch
+### 10/08: Build a model from scratch
 
-### 10/17: Build a model with Keras
+### 10/15: Build a model with Keras
 
-### 10/23: Cross-validation
+### 10/22: Cross-validation
 
-### 10/30: Building Neural Networks
+### 10/29: Building Neural Networks
 
-### 11/06: Project: Hand-written digits (slicing operations)
+### 11/05: Project: Hand-written digits (slicing operations)
 
-### 11/13: Data Augmentation
+### 11/12: Data Augmentation
 
-### 11/20: Performance Tests
+### 11/19: Performance Tests
 
-### 11/27: Cloud Computing
+### 11/26: Cloud Computing
 
 ### 12/03: TBD
 
