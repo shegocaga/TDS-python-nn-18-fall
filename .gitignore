@@ -106,3 +106,6 @@ ENV/
 
 #Zach Lecture Notes
 *.zach
+
+#Photoshop
+*.psd
