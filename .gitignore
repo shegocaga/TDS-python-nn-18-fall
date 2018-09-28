@@ -109,3 +109,6 @@ ENV/
 
 #Photoshop
 *.psd
+
+#Video
+Video/
