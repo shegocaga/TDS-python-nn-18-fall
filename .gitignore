@@ -115,3 +115,6 @@ Video/
 
 # Temp folders
 temp/
+
+# Ignore vim files
+*.swo
